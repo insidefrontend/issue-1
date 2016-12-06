@@ -68,6 +68,8 @@ Inside では、セッションと AMA ブースの 2 つをコンテンツと�
 
 ## 共催各社
 
-- [ヤフー株式会社](http://docs.yahoo.co.jp/)
-- [日本経済新聞社](http://www.nikkei.co.jp/nikkeiinfo/)
-- [株式会社サイバーエージェント](https://www.cyberagent.co.jp/)
+本企画は、独自に Web フロントエンド系の勉強会を開催している各社の有志でお届けしております。
+
+- [ヤフー株式会社](http://docs.yahoo.co.jp/) / [SCRIPTY - connpass](https://scripty.connpass.com/)
+- [日本経済新聞社](http://www.nikkei.co.jp/nikkeiinfo/) / [Frontend Meetup Tokyo - connpass](https://frontend.connpass.com/)
+- [株式会社サイバーエージェント](https://www.cyberagent.co.jp/) / [Frontrend powered by CyberAgent, Inc. - connpass](https://frontrend.connpass.com/)
