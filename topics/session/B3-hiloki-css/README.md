@@ -7,6 +7,8 @@
 
 ### 谷
 
+- http://inkdesign.jp/images/author/tani.jpg
+
 ### 斉藤
 
 - http://d.pr/i/W7gz
@@ -16,6 +18,7 @@
 ### 谷
 
 - https://twitter.com/hiloki
+- https://github.com/hiloki
 
 ### 斉藤
 
@@ -24,6 +27,8 @@
 ## 所属
 
 ### 谷
+
+株式会社ツクルバ
 
 ### 斉藤
 
