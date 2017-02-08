@@ -22,11 +22,11 @@ JSON Schema in Web Frontend
 
 ## セッション概要(100文字程度)
 
-広告入稿ツールにおけるJSON Schemaの活用事例を紹介します。
+開発中の広告入稿ツールにおけるJSON Schemaの活用事例を紹介します。
 
 ## アウトライン
 
-まだ仮です
+まだざっくりです。
 
 - JSON Schema/JSON Hyper Schemaとは？
 - JSON Hyper SchemaでのFE/BEの意思疎通の話
