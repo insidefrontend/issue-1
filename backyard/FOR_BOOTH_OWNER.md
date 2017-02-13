@@ -14,7 +14,7 @@ AMA ( _Ask Me Anything_ ) ブースでは、セッションとセッションの
 
 ### 前日まで
 
-[AMA ブース用 Project](https://github.com/insidefrontend/issue-1/projects) から当日取り上げる質問の選定と Issue 化。
+[AMA ブース用 Q&A](https://github.com/insidefrontend/issue1-ama) から当日取り上げる質問の選定。
 
 ### 当日
 
@@ -22,18 +22,17 @@ AMA ( _Ask Me Anything_ ) ブースでは、セッションとセッションの
 
 ## AMA ブースのイメージ
 
-1. （質問者） [AMA ブース用 Project](https://github.com/insidefrontend/issue-1/projects) に質問を Note で追加する
-2. （オーナー）Project から取り上げる質問を選定して Issue に変換する
-3. （オーナー）Issue に該当する分類用ラベル ( `AMA-***` ) をつける
-4. （当日）ブースで Issue について質疑応答したり議論したりする
-5. （当日）Issue に関する当日のやり取りを書記（後述）が記録する
+1. （質問者） [AMA ブース用　Q&A](https://github.com/insidefrontend/issue1-ama) に質問をIssueとして追加する
+2. （オーナー）Issue から取り上げる質問を選定
+3. （当日）ブースで Issue について質疑応答したり議論したりする
+4. （当日）Issue に関する当日のやり取りを書記（後述）が記録する
 
 ※ Label や Project のカラム設定は運営でまとめて行います
 
 AMAブースにて質問を募集していることは、運営側でも可能な限り宣伝しておりますが、ご自身でもSNSなどで宣伝いただければと思います。  
 抽選を行うのが2月10日(金)となりますので、そのタイミングから宣伝いただくのがよいかなと思います。
 
-尚、ご自身で[AMA ブース用 Project](https://github.com/insidefrontend/issue-1/projects)によくある質問、答えたい質問などを起票いただいてもかまいません。
+尚、ご自身で[AMA ブース用　Q&A](https://github.com/insidefrontend/issue1-ama)によくある質問、答えたい質問などを起票いただいてもかまいません。
 
 ### AMA ブースの運営案
 
