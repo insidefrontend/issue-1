@@ -1,0 +1,7 @@
+- [アメブロ2016 ~ React/ReduxでつくるIsomorphic web app ~](https://developers.cyberagent.co.jp/blog/archives/636/)
+- [アメブロ2016 ~ Isomorphic JavaScriptの詳しい話](https://developers.cyberagent.co.jp/blog/archives/3513/)
+- [アメブロの大規模システム刷新と それを支えるSpring](https://www.slideshare.net/nin2hanzo/spring-69237035)
+- [アメブロ2016：インフラ編　〜大規模リニューアルの裏側〜](https://developers.cyberagent.co.jp/blog/archives/2653/)
+- [SpeedCurve](https://speedcurve.com)
+- [Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
+- [Premature Optimization](http://wiki.c2.com/?PrematureOptimization)
